@@ -2,7 +2,7 @@ Instructions on how to run the tests:
 
 Method 1: Doing it yourself from scratch
 1. Download the attached 'Flowdrive.zip' 
-2. Download the attached 'Flowdrive.apk'
+2. Download 'Flowdrive.apk' from here: https://drive.google.com/file/d/1rWuQQrIvpjFPrAVTVk8NoFhcHX_kuS-H/view?usp=sharing
 2. Login/Register to https://cloud.testdroid.com
 3. Click on Projects tab and add a new project of type: Calabash Android
 4. Select the newly created project and click on the create new test run button (green button with + sign on it)
