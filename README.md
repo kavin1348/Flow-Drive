@@ -17,7 +17,7 @@ Method 2: Express run on a ready environment
 3. Click on the create new test run button (green button with + sign on it)
 4. Click on Start button in Application page and wait for the tests to complete 
 
-========================================================================================
+===========================================================================
 Note: 
 1. Bitbar/testdroid is experiencing technical issues. So if any test run fails, please try again after some time. 
 2. In case if nothing works, fret not, I have already executed a full test under Kavin Test Project, which contains the recordings/screenshots of the test. 
