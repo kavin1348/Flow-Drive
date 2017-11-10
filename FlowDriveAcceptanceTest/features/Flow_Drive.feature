@@ -29,11 +29,11 @@ Feature: Acceptance tests for FlowDrive
   Scenario: Should be able to start and stop journeys
 	Given I press "start" journey button
 	Then I wait for 30 seconds
-   Then I am at 53.3871073, -1.4637310000000525
+#   Then I am at 53.3871073, -1.4637310000000525
 #	Comment: Previous step cannot be run without Mock location permission, which is not supported in Bitbar      
 	And I take a screenshot
 	Then I wait for 3 seconds
- 	Then I am at 53.38112899999999, -1.47008500000004  
+# 	Then I am at 53.38112899999999, -1.47008500000004  
 #   Comment: Previous step cannot be run without Mock location permission, which is not supported in Bitbar 
 	Then I press "stop" journey button
 	Then I wait for 3 seconds
